@@ -1,1 +1,3 @@
-# alura-armazenando-na-web
+# Alura - Javascript - LocalStorage
+
+Simple app to practice Javascript using LocalStorage
